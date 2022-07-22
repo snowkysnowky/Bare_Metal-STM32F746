@@ -1,0 +1,2 @@
+/home/lime/Documents/chip_header/CMSIS/Include/core_cm7.h:1896:22:__NVIC_EnableIRQ	16	static
+../Src/exti.c:13:6:PI11_exti_init	8	static,ignoring_inline_asm

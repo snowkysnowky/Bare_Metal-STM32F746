@@ -1,0 +1,9 @@
+/home/lime/Documents/chip_header/CMSIS/Include/core_cm7.h:1896:22:__NVIC_EnableIRQ	16	static
+../Src/uart.c:31:5:__io_putchar	16	static
+../Src/uart.c:37:6:usart1_tx_init	8	static
+../Src/uart.c:68:6:usart1_rxtx_init	8	static
+../Src/uart.c:110:6:usart1_rx_interrupt_init	8	static
+../Src/uart.c:158:6:uart1_read	4	static
+../Src/uart.c:167:6:uart1_write	16	static
+../Src/uart.c:176:13:uart_set_baudrate	24	static
+../Src/uart.c:181:17:compute_uart_baudrate	16	static
